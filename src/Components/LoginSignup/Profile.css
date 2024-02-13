@@ -1,0 +1,22 @@
+.rounded {
+  width: 200px;
+  size: 200px;
+  clip-path: circle();
+}
+
+.container {
+  display: grid;
+}
+
+.btn1 {
+  width: 80px;
+}
+.header {
+  margin-bottom: 10%;
+}
+.profile {
+  align-items: center;
+  display: flex;
+  padding-bottom: 5%;
+  column-gap: 10%;
+}

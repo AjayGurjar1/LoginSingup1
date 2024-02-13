@@ -1,0 +1,17 @@
+.footer {
+  position: absolute;
+  bottom: 1px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.btn {
+  margin-bottom: 10px;
+  display: block;
+  width: -webkit-fill-available;
+}
+
+.required:after {
+  content: " *";
+  color: red;
+}
